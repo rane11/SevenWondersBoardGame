@@ -1,7 +1,7 @@
 # SevenWondersBoardGame
 Test Results:
 
-[INFO] Scanning for projects...
+[INFO] Scanning for projects....
 [INFO] 
 [INFO] ---------------------------< com.re:gfkSTry >---------------------------
 [INFO] Building gfkSTry 0.0.1-SNAPSHOT
